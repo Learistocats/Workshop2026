@@ -1,6 +1,7 @@
 # OS
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # --- Secrets : AUCUN secret en clair dans le dépôt (critère jury / WOR-62) ---
 .env
